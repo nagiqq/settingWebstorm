@@ -1,0 +1,5 @@
+<templateSet group="Zen HTML">
+  <template name="i" value="&lt;i&gt;$END$&lt;/i&gt;" shortcut="NONE" description="&lt;i&gt;...&lt;/i&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
