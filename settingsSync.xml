@@ -2,10 +2,9 @@
   <component name="SettingsSyncSettings">
     <option name="disabledCategories">
       <list>
-        <option value="UI" />
+        <option value="PLUGINS" />
       </list>
     </option>
     <option name="migrationFromOldStorageChecked" value="true" />
-    <option name="syncEnabled" value="true" />
   </component>
 </application>
