@@ -1,5 +1,10 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Console.TableResult.NextPage" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="NewElementMenu">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="NextOccurence" />
 </keymap>
