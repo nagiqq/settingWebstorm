@@ -2,7 +2,7 @@
   <component name="SettingsSyncSettings">
     <option name="disabledCategories">
       <list>
-        <option value="PLUGINS" />
+        <option value="UI" />
       </list>
     </option>
     <option name="migrationFromOldStorageChecked" value="true" />
