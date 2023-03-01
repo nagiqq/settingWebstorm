@@ -1,0 +1,6 @@
+<templateSet group="Vue">
+  <template name="v3watch" value="watch(() =&gt; $foo$, (newValue, oldValue) =&gt; {&#10; console.log(newValue)&#10; console.log(oldValue)&#10;})" description="Vue Composition api - watcher single source" toReformat="true" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="&quot;foo&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
