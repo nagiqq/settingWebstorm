@@ -7,9 +7,6 @@
     </option>
     <option name="enabled" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
